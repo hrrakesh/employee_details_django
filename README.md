@@ -1,1 +1,2 @@
-# employee_details_django
+# Created Simple Django App
+# First app on Django Frame Work
