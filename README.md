@@ -1,2 +1,3 @@
 # Created Simple Django App
-# First app on Django Frame Work
+# My First app on Django Frame Work
+# create necessary packages(django,pillow)
